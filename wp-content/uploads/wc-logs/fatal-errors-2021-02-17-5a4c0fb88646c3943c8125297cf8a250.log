@@ -1,0 +1,2 @@
+2021-02-17T07:34:25+00:00 CRITICAL Cannot redeclare jupiterx_core() (previously declared in /home/picksuga/public_html/wp-content/plugins/jupiterx-core-v1.18.2/jupiterx-core.php:559) in /home/picksuga/public_html/wp-content/plugins/jupiterx-core/jupiterx-core.php on line 558
+

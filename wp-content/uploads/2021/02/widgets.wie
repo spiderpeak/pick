@@ -1,0 +1,15 @@
+{
+  "sidebar-1": {
+    "mc4wp_form_widget-3": {
+      "title": "Newsletter"
+    }
+  },
+  "header": {
+    "text-2": {
+      "title": "",
+      "text": "GP | Gutenberg | Woo",
+      "filter": true,
+      "visual": true
+    }
+  }
+}
